@@ -9,7 +9,7 @@ import { Container, ImageWrapper } from '../elements'
 
 const About = ({ data }) => (
   <Layout>
-    <SEO title=" Siamo" />
+    <SEO title=" Chi Siamo" />
 
     <Billboard />
 
